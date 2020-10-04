@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aurimas.sernas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aurimas.sernas\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

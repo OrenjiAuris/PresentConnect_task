@@ -1,0 +1,9 @@
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\bin\Debug\netcoreapp3.1\NLog.Web.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\bin\Debug\netcoreapp3.1\PVM.Domain.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\obj\Debug\netcoreapp3.1\Technical_Task_Aurimas_Šernas.Api.csprojAssemblyReference.cache
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\obj\Debug\netcoreapp3.1\Technical_Task_Aurimas_Šernas.Api.AssemblyInfoInputs.cache
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\obj\Debug\netcoreapp3.1\Technical_Task_Aurimas_Šernas.Api.AssemblyInfo.cs
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\Technical_Task_Aurimas_Šernas\obj\Debug\netcoreapp3.1\Technical_Task_Aurimas_Šernas.Api.RazorTargetAssemblyInfo.cache

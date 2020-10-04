@@ -1,0 +1,93 @@
+{
+	"info": {
+		"_postman_id": "eb442ce4-ba0a-4627-8e3f-720a76d6ebb3",
+		"name": "Aurimas_Šernas_Techninė_Užduotis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GenerateInvoice",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44307/vat/invoice?customerName=Beef Jerky&serviceProviderName=Air&services=Fast Internet",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44307",
+					"path": [
+						"vat",
+						"invoice"
+					],
+					"query": [
+						{
+							"key": "customerName",
+							"value": "Beef Jerky"
+						},
+						{
+							"key": "serviceProviderName",
+							"value": "Air"
+						},
+						{
+							"key": "services",
+							"value": "Fast Internet"
+						},
+						{
+							"key": "services",
+							"value": "Prime Video",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Generatenvoice",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GenerateInvoice",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GenerateInvoice",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GenerateInvoice",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

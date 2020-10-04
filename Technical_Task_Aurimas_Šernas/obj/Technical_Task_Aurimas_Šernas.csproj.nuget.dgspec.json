@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas.csproj",
+        "projectName": "Technical_Task_Aurimas_Šernas",
+        "projectPath": "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas.csproj",
+        "packagesPath": "C:\\Users\\aurimas.sernas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\Technical_Task_Aurimas_Šernas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aurimas.sernas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\aurimas.sernas\\Desktop\\AirBox Repos\\abx_apps_lsms\\HealthCheck\\Airbox.HealthCheck\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.5, )"
+            },
+            "NLog.Web": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\bin\Debug\netcoreapp3.1\PVM.Domain.deps.json
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\bin\Debug\netcoreapp3.1\PVM.Domain.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.csprojAssemblyReference.cache
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.AssemblyInfoInputs.cache
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.AssemblyInfo.cs
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\bin\Debug\netcoreapp3.1\PVM.Domain.pdb
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.dll
+C:\Users\aurimas.sernas\source\repos\Technical_Task_Aurimas_Šernas\PVM.Domain\obj\Debug\netcoreapp3.1\PVM.Domain.pdb

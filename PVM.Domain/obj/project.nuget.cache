@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQFPu+DhYc7c2jbwUslAs5OE3E/bZJKj5iaD2PY01PPw00x+kMYxmu9Xpke7wlPFjEqVi23XFRCIQIUiD2wwFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aurimas.sernas\\source\\repos\\Technical_Task_Aurimas_Šernas\\PVM.Domain\\PVM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aurimas.sernas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
